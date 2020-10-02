@@ -19,7 +19,9 @@ public class AddressBook {
         return null;
     }
 
+ public void test( ){
 
+ }
     public static void main (String[] args) {
         BuddyInfo j = new BuddyInfo("colonel", " jaamac", 4484848);
         AddressBook adbook = new AddressBook();
